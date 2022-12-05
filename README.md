@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @MattiaTom, student in Italy
+- 
+-  I’m interested in Medical, Molecular and Industrial application of Biotechnologies sciences; for the three month internships for my bachelor's degree thesis 
+-  (at the VIMM - Veneto Institute of Molecular Medicine), i've studied and learned the NGS Oxford Nanopore method, and yes i've have done the thesis on it.
+-  
+-  I’m currently learning as self-taugth Python and R, specifically for Bioinformatics applications
+-  
+-  I'm graduated at the University of Ferrara, Italy in Medical Biotechnology, now i'm attending a 1 Level Master at the University of Siena, Italy 
+-  in Liquid Biopsy/Bioinformatics; after the Master in Siena, my purpose is to attend the Molecular and Industrial Biotechnology Master's Degree at the
+-  University of Bologna, Italy.
