@@ -2,6 +2,6 @@
 - 
 -  I’m interested in Medical, Molecular and Industrial application of Biotechnologies sciences; for the three months internship for my bachelor's degree thesis (at the VIMM - Veneto Institute of Molecular Medicine), i've studied and learned the NGS Oxford Nanopore method, and yes i've have done the thesis on it.
 -  
--  I’m currently learning as self-taugth Python and R, specifically for Bioinformatics applications
+-  I’m currently learning as self-taugth Python and R, specifically for Bioinformatics applications; I also tray to stay updated on related bio-packages such as biopython, biojava, biopearl and bioconductor
 -  
 -  I'm graduated at the University of Ferrara, Italy in Medical Biotechnology, now i'm attending a 1st Level Master in Liquid Biopsy/Bioinformatics at the University of Siena, Italy ; after the Master in Siena, my purpose is to attend the Molecular and Industrial Biotechnology Master's Degree at the University of Bologna, Italy.
