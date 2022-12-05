@@ -4,4 +4,4 @@
 -  
 -  I’m currently learning as self-taugth Python and R, specifically for Bioinformatics applications
 -  
--  I'm graduated at the University of Ferrara, Italy in Medical Biotechnology, now i'm attending a 1 Level Master at the University of Siena, Italy in Liquid Biopsy/Bioinformatics; after the Master in Siena, my purpose is to attend the Molecular and Industrial Biotechnology Master's Degree at the University of Bologna, Italy.
+-  I'm graduated at the University of Ferrara, Italy in Medical Biotechnology, now i'm attending a 1st Level Master in Liquid Biopsy/Bioinformatics at the University of Siena, Italy ; after the Master in Siena, my purpose is to attend the Molecular and Industrial Biotechnology Master's Degree at the University of Bologna, Italy.
